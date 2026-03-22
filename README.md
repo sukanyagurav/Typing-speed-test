@@ -3,7 +3,7 @@
 A modern, interactive typing speed test application built with React, Tailwind CSS, and Framer Motion.
 
 - [Github](https://github.com/sukanyagurav/Typing-speed-test)
-- [Netlify](https://www.netlify.com/)
+- [Netlify](https://typings-speed-test5867.netlify.app/)
 
 ![React](https://img.shields.io/badge/React-19-blue) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-06B6D4) ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-12-000000)
 
@@ -172,5 +172,3 @@ Pure, reusable functions in `src/utils/helpers.js`:
 - `calculateDisplayTime()` - Format time display
 - `formatTimeLabel()` - Time formatting
 - `formatCharsLabel()` - Character count formatting
-
-**Have fun building!** 🚀
